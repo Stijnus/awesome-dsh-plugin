@@ -1,0 +1,7 @@
+url: https://github.com/Stijnus/dsh-ds-ponytail
+name: Stijnus/dsh-ds-ponytail
+category: skill
+tarball: https://github.com/Stijnus/dsh-ds-ponytail/releases/download/v0.1.0/dsh-ds-ponytail-0.1.0.tgz
+description:
+  en: 'Six loadable skills for DeepSeek Harness: ponytail lazy senior dev mode plus review, audit, debt, gain and help companions, ported from DietrichGebert/ponytail.'
+  zh: '为 DeepSeek Harness 移植的 ponytail 技能组：懒人资深工程师模式，外加 review、audit、debt、gain、help 五个配套技能。'
